@@ -114,7 +114,7 @@ vista lógico el control es del usuario”
 
 ### 2.- Crea la siguiente estructura de subcarpetas dentro de la carpeta ASTRO
 
-![Image text](https://github.com/DavidMuletMelia/Ejercicio-2---Ejercicios-B-sicos-MS-DOS/blob/main/Practica%202/3/2a.PNG)
+![Image text](https://github.com/DavidMuletMelia/Ejercicio-2---Ejercicios-B-sicos-MS-DOS/blob/main/Practica%202/3/2.PNG)
 
 ![Image text](https://github.com/DavidMuletMelia/Ejercicio-2---Ejercicios-B-sicos-MS-DOS/blob/main/Practica%202/3/2b.PNG)
 
