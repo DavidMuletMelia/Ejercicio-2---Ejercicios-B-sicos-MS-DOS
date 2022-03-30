@@ -1,17 +1,17 @@
 # Ejercicio-2-Ejercicios-Basicos-MS-DOS
 
-## EJERCICIO 1
-### Indica en cada caso las órdenes utilizadas:
+# EJERCICIO 1
+## Indica en cada caso las órdenes utilizadas:
 
-# 1.- Crea la siguiente estructura de carpetas:
-
-
-
-# 2.- Sitúate en la carpeta TABLAS
+### 1.- Crea la siguiente estructura de carpetas:
 
 
 
-# 3.- Vuelve a la carpeta raíz
+### 2.- Sitúate en la carpeta TABLAS
+
+
+
+### 3.- Vuelve a la carpeta raíz
 
 
 
