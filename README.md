@@ -130,8 +130,7 @@ planetas”
 
 ![Image text](https://github.com/DavidMuletMelia/Ejercicio-2---Ejercicios-B-sicos-MS-DOS/blob/main/Practica%202/3/4.PNG)
 
-### 5.- Utilizando de nuevo el editor de textos de MS-DOS crea el siguiente archivo de texto, y
-guárdalo con el nombre KEPLER.TXT dentro de la carpeta DATOS2
+### 5.- Utilizando de nuevo el editor de textos de MS-DOS crea el siguiente archivo de texto, y guárdalo con el nombre KEPLER.TXT dentro de la carpeta DATOS2
 
 “ La información acumulada facilitó a Johannes Kepler (1571-1630) el
 descubrimiento de las leyes que gobiernan el movimiento de los planetas”
@@ -144,15 +143,13 @@ descubrimiento de las leyes que gobiernan el movimiento de los planetas”
 
 ![Image text](https://github.com/DavidMuletMelia/Ejercicio-2---Ejercicios-B-sicos-MS-DOS/blob/main/Practica%202/3/6b.PNG)
 
-### 7.- Cambia de lugar los archivos almacenados en DATOS1 y DATOS2 de forma que TYCHO.TXT
-quede guardado dentro DATOS2 y KEPLER.TXT en DATOS1
+### 7.- Cambia de lugar los archivos almacenados en DATOS1 y DATOS2 de forma que TYCHO.TXT quede guardado dentro DATOS2 y KEPLER.TXT en DATOS1
 
 ![Image text](https://github.com/DavidMuletMelia/Ejercicio-2---Ejercicios-B-sicos-MS-DOS/blob/main/Practica%202/3/7a.PNG)
 
 ![Image text](https://github.com/DavidMuletMelia/Ejercicio-2---Ejercicios-B-sicos-MS-DOS/blob/main/Practica%202/3/7b.PNG)
 
-### 8.- Crea un nuevo archivo formado por la unión de los dos anteriores (sin volver a escribir el
-texto) y guárdalo dentro de la carpeta HISTORIA con el nombre TOTAL.TXT
+### 8.- Crea un nuevo archivo formado por la unión de los dos anteriores (sin volver a escribir el texto) y guárdalo dentro de la carpeta HISTORIA con el nombre TOTAL.TXT
 
 ![Image text](https://github.com/DavidMuletMelia/Ejercicio-2---Ejercicios-B-sicos-MS-DOS/blob/main/Practica%202/3/8a.PNG)
 
