@@ -1,1 +1,1 @@
-# Ejercicio-2---Ejercicios-B-sicos-MS-DOS
+# Ejercicio-2-Ejercicios-Basicos-MS-DOS
